@@ -13,5 +13,7 @@ num_lens = []
 # Ones
 
 for i in range(1,20):
-    
-    
+   current_num = ones[i]
+   num_lens.append(len(current_num))
+
+print(current_num)
