@@ -29,5 +29,3 @@ for number in range(100,1000):
             current_num = hundreds[num_list[0]]
         elif num_list[1]:
             current_num = hundreds[num_list[0]] + "and" + tens[num_list[1]]
-    
-    
